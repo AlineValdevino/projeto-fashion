@@ -20,14 +20,18 @@ header {
     height: 488px;
     background-repeat: no-repeat;
 }
+/*Como fazer para deixar o fundo do tamanho da largura definida para o conteudo?*/
 
 .paragrafo {
     background-color: var(--cor1);
 
 }
 
+.paragrafo img {
+    padding-left: 30px
+}
+
 .topo {
-    max-width: ;
     display: block;
     margin-left: auto;
     margin-right: auto;
