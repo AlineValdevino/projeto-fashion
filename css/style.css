@@ -14,39 +14,6 @@
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
 }
 
-header {
-    background-color: var(--cor1);
-    margin-left: 175px;
-    margin-right: 152px;
-    padding: 5px;
-}
-nav ul li {
-    display: inline;
-    position: relative;
-    bottom: 35px;
-    left: 955px;
-}
-nav li a {
-    color: var(--cor2);
-    text-decoration: none;
-    padding: 10px;
-}
-nav li a:hover {
-    color: white;
-}
-.topo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-main {
-    min-width: 300px;
-    max-width: 1000px;
-    margin: auto;
-    padding: 20px;
-    background-color: white;
-    margin-bottom: 30px;
-}
 
 
 
